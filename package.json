@@ -1,6 +1,9 @@
 {
   "name": "@example/component",
   "version": "0.0.1",
+  "bugs": {
+    "url": "https://github.com/sebholstein/astro-google-fonts-optimizer/issues"
+  },
   "private": true,
   "scripts": {
     "start": "astro --root demo dev",
